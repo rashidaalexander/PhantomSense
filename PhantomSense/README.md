@@ -1,10 +1,6 @@
 
 # PhantomSense
 
-<p align="center">
-  <img src="assets/banner.png" width="100%" />
-</p>
-
 <h1 align="center">PhantomSense</h1>
 
 <p align="center">
